@@ -6,11 +6,11 @@ NodeMCU ESP8266 Builtin LED Control With Flutter App.
 2. Arduino IDE
 3. Flutter SDK Installed
 
-## Breadboard Diagram -
-![Breadboard Diagram](https://github.com/narayanvyas/Gear-Motor-Control-With-Arduino-And-L298N-Motor-Controller/blob/master/Breadboard%20Diagram.jpeg)
+## Graphical Diagram -
+![Graphical Diagram](https://github.com/narayanvyas/NodeMCU-ESP8266-Builtin-LED-Control-With-Flutter-App/raw/master/Graphical%20Diagram.jpeg)
 
 ## Circuit Diagram -
-![Circuit Diagram](https://github.com/narayanvyas/Gear-Motor-Control-With-Arduino-And-L298N-Motor-Controller/blob/master/Circuit%20Diagram.jpeg)
+![Circuit Diagram](https://github.com/narayanvyas/NodeMCU-ESP8266-Builtin-LED-Control-With-Flutter-App/raw/master/Circuit%20Diagram.jpeg)
 
 ## Authors
 [Narayan Vyas](https://www.narayanvyas.org) - [Web Dev Fusion](https://www.webdevfusion.com)
