@@ -1,16 +1,22 @@
-# nodemcu_flutter_example
+# NodeMCU ESP8266 Builtin LED Control With Flutter App
+NodeMCU ESP8266 Builtin LED Control With Flutter App.
 
-Flutter Based App Examples To Control NodeMCU
+## Prerequisites
+1. NodeMCU ESP8266
+2. Arduino IDE
+3. Flutter SDK Installed
 
-## Getting Started
+## Breadboard Diagram -
+![Breadboard Diagram](https://github.com/narayanvyas/Gear-Motor-Control-With-Arduino-And-L298N-Motor-Controller/blob/master/Breadboard%20Diagram.jpeg)
 
-This project is a starting point for a Flutter application.
+## Circuit Diagram -
+![Circuit Diagram](https://github.com/narayanvyas/Gear-Motor-Control-With-Arduino-And-L298N-Motor-Controller/blob/master/Circuit%20Diagram.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+## Authors
+[Narayan Vyas](https://www.narayanvyas.org) - [Web Dev Fusion](https://www.webdevfusion.com)
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Acknowledgments
+Thanks to [Circuit Digest](https://circuitdigest.com/microcontroller-projects/electronic-voting-machine-using-arduino) for the inspiriation.
