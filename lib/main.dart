@@ -47,9 +47,11 @@ class _HomeState extends State<Home> {
     } catch (e) {
       // If NodeMCU is not connected, it will throw error
       print(e);
-      setState(() {
-        _status = 'Not Connected';
-      });
+      if (this.mounted) {
+        setState(() {
+          _status = 'Not Connected';
+        });
+      }
     }
   }
 
